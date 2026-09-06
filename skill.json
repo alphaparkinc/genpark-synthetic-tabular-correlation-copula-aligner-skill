@@ -1,0 +1,12 @@
+{
+  "name": "genpark-synthetic-tabular-correlation-copula-aligner-skill",
+  "version": "1.0.0",
+  "description": "Covariance and correlation alignment engine ensuring synthetic datasets preserve multi-attribute feature dependencies.",
+  "category": "AI Synthetic Data & Hallucination Benchmarks",
+  "runtime": "python3",
+  "entrypoint": "client.py",
+  "author": "GenPark AI",
+  "repository": "https://github.com/alphaparkinc/genpark-synthetic-tabular-correlation-copula-aligner-skill",
+  "verified": true,
+  "stars": 8
+}
